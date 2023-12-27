@@ -9,7 +9,7 @@
   Format               : Gameboy 4 color.
   Compression          : None.
   Counter              : None.
-  Tile size            : 16 x 16
+  Tile size            : 8 x 8
   Tiles                : 0 to 0
 
   Palette colors       : None.
@@ -24,8 +24,8 @@
 
 
 /* Bank of tiles. */
-#define hiromuspriteBank 0
+#define hiromuBank 0
 /* Start of tile array. */
-extern const unsigned char hiromusprite[];
+extern unsigned char hiromu[];
 
 /* End of HIROMU.H */

@@ -1,2 +1,2 @@
 REM Automatically generated from Makefile
-C:\gbdk\bin\lcc.exe   -o jogo.gb main.c 
+C:\gbdk\bin\lcc.exe   -o jogo3.gb main.c 
